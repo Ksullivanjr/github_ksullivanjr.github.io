@@ -1,0 +1,8 @@
+//My Style Sheet
+body {
+  max-width: 1000px;
+  max-height: 1200px;
+  background-image: url('myBackground.jpg');
+  margin: auto;
+
+}
